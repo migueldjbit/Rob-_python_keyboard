@@ -1,0 +1,635 @@
+1650653710195	geckodriver	INFO	Listening on 127.0.0.1:53785
+1650653713459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileqk1pbj"
+1650653713991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileqk1pbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53786/devtools/browser/eeadba29-3a63-45f9-8644-21a0c9e3b1a3
+1650653716981	Marionette	INFO	Listening on port 53832
+Read port: 53832
+1650653717062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650653762181	Marionette	INFO	Stopped listening on port 53832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650653779297	geckodriver	INFO	Listening on 127.0.0.1:53968
+1650653782334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileBbEHnu"
+1650653782862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileBbEHnu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53969/devtools/browser/053c0ef7-b85b-4be4-a046-1ba44c15e38c
+1650653785674	Marionette	INFO	Listening on port 54023
+Read port: 54023
+1650653785813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1650653837709	Marionette	INFO	Stopped listening on port 54023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650653871584	geckodriver	INFO	Listening on 127.0.0.1:54292
+1650653874807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileszRVjn"
+1650653875341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileszRVjn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54293/devtools/browser/9adecee9-3129-41bb-a716-6f68c8637102
+1650653878224	Marionette	INFO	Listening on port 54330
+Read port: 54330
+1650653878277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650654131142	Marionette	INFO	Stopped listening on port 54330
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650654207340	geckodriver	INFO	Listening on 127.0.0.1:56174
+1650654210807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileegRKeE"
+1650654211314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileegRKeE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56175/devtools/browser/26bbf409-5acd-44d8-9a5a-f85f23cf2a45
+1650654214183	Marionette	INFO	Listening on port 56263
+Read port: 56263
+1650654214264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650654219855	Marionette	INFO	Stopped listening on port 56263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650654243814	geckodriver	INFO	Listening on 127.0.0.1:56591
+1650654247152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileZbLNdy"
+1650654247687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileZbLNdy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56592/devtools/browser/74eef694-a7b0-4813-aaf9-4fc251cb259f
+1650654250527	Marionette	INFO	Listening on port 56678
+Read port: 56678
+1650654250656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650654420252	Marionette	INFO	Stopped listening on port 56678
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650655769700	geckodriver	INFO	Listening on 127.0.0.1:64600
+1650655773028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileOV5hde"
+1650655773506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileOV5hde\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64601/devtools/browser/5f657139-2518-48d9-bde5-7dec262db6d4
+1650655775936	Marionette	INFO	Listening on port 64627
+Read port: 64627
+1650655775977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650655916607	Marionette	INFO	Stopped listening on port 64627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650656003764	geckodriver	INFO	Listening on 127.0.0.1:49832
+1650656006972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofile148mFD"
+1650656007450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofile148mFD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49833/devtools/browser/a61831ca-c6a6-411e-b5cb-4c28e1e7353b
+1650656009911	Marionette	INFO	Listening on port 49919
+Read port: 49919
+1650656010021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+[Child 9060, MediaDecoderStateMachine #1] WARNING: 1be4d020d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9060, MediaDecoderStateMachine #1] WARNING: 1be4d020d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483650/pagestyle24 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observe
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650657734458	Marionette	INFO	Stopped listening on port 51049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ode: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/se1650657733230	Marionette	INFO	Stopped listening on port 52045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.protot1650657436601	Marionette	INFO	Stopped listening on port 53056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1089, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/net1650657596930	Marionette	INFO	Stopped liste
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650657736323	Marionette	INFO	Stopped listening on port 49919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ges will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\djmig\AppData\Local\Temp\rust_mozprofilefdDCux\protections.sqlite
+1650657617197	geckodriver	INFO	Listening on 127.0.0.1:57881
+1650657620234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57882" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileJG6ty9"
+1650657620681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileJG6ty9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57882/devtools/browser/4f6b7bff-425b-4cfb-8e0f-9d8ad2622a29
+1650657623174	Marionette	INFO	Listening on port 57912
+Read port: 57912
+1650657623275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1650657726732	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650657727561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650657742035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650657748776	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650657749609	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Handler function BrowserTabList.prototype.onCloseWindow's delayed body threw an exception: TypeError: topBrowsingContext is null
+Stack: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:352:7
+getAllBrowsingContexts@resource://devtools/server/actors/watcher.js:150:12
+destroyTargets@resource://devtools/server/actors/watcher/target-helpers/frame-helper.js:164:36
+unwatchTargets@resource://devtools/server/actors/watcher.js:285:24
+destroy@resource://devtools/server/actors/watcher.js:173:12
+destroy@resource://devtools/shared/protocol/Pool.js:211:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/descriptors/tab.js:245:29
+BrowserTabList.prototype._handleActorClose@resource://devtools/server/actors/webbrowser.js:458:9
+BrowserTabList.prototype.onCloseWindow</<@resource://devtools/server/actors/webbrowser.js:707:16
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+Line: 352, column: 7
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 352))
+console.error: (new Error("Connection closed, pending request to server0.conn0.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/commands/resource/resource-command.js:929:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+1650657812906	Marionette	INFO	Stopped listening on port 57912
+[Parent 1840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+SourceActor threw an exception: Error: Failed to fetch https://web.whatsapp.com/. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://web.whatsapp.com/. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://web.whatsapp.com/. Code 2147500036.
+1650657947917	geckodriver	INFO	Listening on 127.0.0.1:60193
+1650657950964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileeJ18dk"
+1650657951410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileeJ18dk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60194/devtools/browser/0b3b5100-1d2a-4fcc-8427-edcda45eb549
+1650657953991	Marionette	INFO	Listening on port 60234
+Read port: 60234
+1650657954120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650658055582	Marionette	INFO	Stopped listening on port 60234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650658330384	geckodriver	INFO	Listening on 127.0.0.1:61790
+1650658333413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileaITrwm"
+1650658333868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileaITrwm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61791/devtools/browser/b549178a-b14b-4979-94d3-3862d671ee81
+1650658336451	Marionette	INFO	Listening on port 61833
+Read port: 61833
+1650658336546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMess1650658501136	Marionette	INFO	Stopped listening on port 61978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMe1650658601215	Marionette	INFO	Stopped listening on port 61833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650765748752	geckodriver	INFO	Listening on 127.0.0.1:57071
+1650765752052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileTrzWCe"
+1650765752839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileTrzWCe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57072/devtools/browser/1121f3d4-8e4f-45d1-832d-166eecc1e369
+1650765755746	Marionette	INFO	Listening on port 57101
+Read port: 57101
+1650765755873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1650765879661	Marionette	INFO	Stopped listening on port 57101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileoetuhC"
+1650765806022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileoetuhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57200/devtools/browser/4be4602b-dc96-4662-9c6a-6054dab9ecc8
+1650765808482	Marionette	INFO	Listening on port 57263
+Read port: 57263
+1650765808509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1650765871721	Marionette	INFO	Stopped listening on port 57263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\djmig\AppData\Local\Temp\rust_mozprofileoetuhC\protections.sqlite
+1650765940696	geckodriver	INFO	Listening on 127.0.0.1:57434
+1650765943965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileENb5s9"
+1650765944433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\djmig\\AppData\\Local\\Temp\\rust_mozprofileENb5s9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57435/devtools/browser/abe6ea3e-67d2-4525-af5b-6688a207dcd7
+1650765946895	Marionette	INFO	Listening on port 57463
+Read port: 57463
+1650765946930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1650766275960	Marionette	INFO	Stopped listening on port 57463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
